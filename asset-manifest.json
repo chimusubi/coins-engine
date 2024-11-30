@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coins-engine/static/css/main.457b780c.css",
-    "main.js": "/coins-engine/static/js/main.bdd70d3b.js",
+    "main.css": "/coins-engine/static/css/main.a3b36261.css",
+    "main.js": "/coins-engine/static/js/main.6b8a676d.js",
     "static/js/453.2906ac83.chunk.js": "/coins-engine/static/js/453.2906ac83.chunk.js",
     "index.html": "/coins-engine/index.html",
-    "main.457b780c.css.map": "/coins-engine/static/css/main.457b780c.css.map",
-    "main.bdd70d3b.js.map": "/coins-engine/static/js/main.bdd70d3b.js.map",
+    "main.a3b36261.css.map": "/coins-engine/static/css/main.a3b36261.css.map",
+    "main.6b8a676d.js.map": "/coins-engine/static/js/main.6b8a676d.js.map",
     "453.2906ac83.chunk.js.map": "/coins-engine/static/js/453.2906ac83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.457b780c.css",
-    "static/js/main.bdd70d3b.js"
+    "static/css/main.a3b36261.css",
+    "static/js/main.6b8a676d.js"
   ]
 }
