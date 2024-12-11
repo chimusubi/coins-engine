@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coins-engine/static/css/main.a3b36261.css",
-    "main.js": "/coins-engine/static/js/main.23db254e.js",
-    "static/js/453.2906ac83.chunk.js": "/coins-engine/static/js/453.2906ac83.chunk.js",
-    "index.html": "/coins-engine/index.html",
-    "main.a3b36261.css.map": "/coins-engine/static/css/main.a3b36261.css.map",
-    "main.23db254e.js.map": "/coins-engine/static/js/main.23db254e.js.map",
-    "453.2906ac83.chunk.js.map": "/coins-engine/static/js/453.2906ac83.chunk.js.map"
+    "main.css": "/process-csv/static/css/main.a3b36261.css",
+    "main.js": "/process-csv/static/js/main.a9d1f2f1.js",
+    "static/js/453.2906ac83.chunk.js": "/process-csv/static/js/453.2906ac83.chunk.js",
+    "index.html": "/process-csv/index.html",
+    "main.a3b36261.css.map": "/process-csv/static/css/main.a3b36261.css.map",
+    "main.a9d1f2f1.js.map": "/process-csv/static/js/main.a9d1f2f1.js.map",
+    "453.2906ac83.chunk.js.map": "/process-csv/static/js/453.2906ac83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3b36261.css",
-    "static/js/main.23db254e.js"
+    "static/js/main.a9d1f2f1.js"
   ]
 }
